@@ -41,28 +41,31 @@
         </div>
         <br>
         <nav>
-            <div id="nav-tab" role="tablist" class="nav nav-tabs">
-                <a href="index.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Home</button>
-                </a>
-                &nbsp;
-                &nbsp;
-                <a href="about-us.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
-                </a>
-                &nbsp;
-                &nbsp;
-                <a href="blog.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
-                </a>
-                &nbsp;
-                &nbsp;
-                <a href="support-us.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
-                </a>
-                &nbsp;
-                &nbsp;
+            <div class="navbar">
+                <div id="nav-tab" role="tablist" class="nav nav-tabs">
+                    <a href="index.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Home</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                    <a href="about-us.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                    <a href="blog.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                    <a href="support-us.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                </div>
             </div>
+
         </nav>
         <br>
         <div class="gfm-embed" data-url="https://www.gofundme.com/f/raise-money-for-leventhorpes-cansat-entry/widget/large/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
