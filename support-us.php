@@ -47,20 +47,21 @@
                 </a>
                 &nbsp;
                 &nbsp;
-                <button style="background-color: rgb(50, 108, 173);" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" class="btn btn-secondary dropdown-toggle">
-                    On our website
-                </button>
-                <ul aria-labelledby="dropdownMenuButton1" class="dropdown-menu">
-                <li>
-                    <a href="about-us.php" class="dropdown-item">About us</a>
-                </li>
-                <li>
-                    <a href="blog.php" class="dropdown-item">Blog</a>
-                </li>
-                <li>
-                    <a href="support-us.php" class="dropdown-item">Support us</a>
-                </li>
-                </ul>
+                <a href="about-us.php">
+                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
+                </a>
+                &nbsp;
+                &nbsp;
+                <a href="blog.php">
+                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
+                </a>
+                &nbsp;
+                &nbsp;
+                <a href="support-us.php">
+                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
+                </a>
+                &nbsp;
+                &nbsp;
             </div>
         </nav>
         <br>
