@@ -42,7 +42,7 @@
         <br>
         <nav>
             <div id="nav-tab" role="tablist" class="nav nav-tabs">
-                <a href="index.php">
+                <a href="/">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Home</button>
                 </a>
                 &nbsp;
