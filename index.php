@@ -35,7 +35,7 @@
             </h6>
         </div>
     </div>
-    <div style="background-image: url('https://levcansat.com/assets/img/background.png');" class="container-fluid py-5">
+    <div style="background-image: url('https://levcansat.com/assets/img/background.png'); width: 100%; top: 0; position: fixed;" class="container-fluid py-5">
         <div style="color: rgb(27, 59, 94);">
             <h1 id="i8n8" class="display-1 text-center"><u>Leventhorpe CanSat Team</u></h1>
         </div>
