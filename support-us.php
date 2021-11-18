@@ -66,8 +66,8 @@
                 </div>
             </nav>
     </div>
-        <br>
-        <div class="gfm-embed" data-url="https://www.gofundme.com/f/raise-money-for-leventhorpes-cansat-entry/widget/large/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+    <br>
+    <div class="gfm-embed" data-url="https://www.gofundme.com/f/raise-money-for-leventhorpes-cansat-entry/widget/large/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
                          
