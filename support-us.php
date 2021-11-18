@@ -29,15 +29,15 @@
 <body style="background-image: url('https://levcansat.com/assets/img/background.png');">
     <div class="banner" style="padding-top:15px; padding-bottom: 5px; text-align:center; background-color: whitesmoke;">
         <div class="banner-content">
-            <h6><span style="background-color: #1E70B9; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&nbsp;<strong>BETA</strong>&nbsp;</span>
+            <h6><span style="background-color: #1E70B9; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&nbsp;<strong>RELEASE CANDIDATE</strong>&nbsp;</span>
                 &nbsp;
                   This is a new service – your <a target="_blank" href="https://leventhorpe.atlassian.net/servicedesk/customer/portals">feedback</a> will help us to improve it.
             </h6>
         </div>
     </div>
-    <div style="background-image: url('https://levcansat.com/assets/img/background.png'); width: 100%; top: 0; position: fixed;" class="container-fluid py-5">
+    <div style="background-image: url('https://levcansat.com/assets/img/background.png');" class="container-fluid py-5">
         <div style="color: rgb(27, 59, 94);">
-            <h1 id="i8n8" class="display-1 text-center"><u>Leventhorpe CanSat Team</u></h1>
+            <h1 id="i8n8" class="display-1 text-center" style="width: 100%; top: 0; position: fixed;"><u>Leventhorpe CanSat Team</u></h1>
         </div>
         <br>
         <nav>
