@@ -27,7 +27,7 @@
 </head>
 
 <body style="background-image: url('https://levcansat.com/assets/img/background.png');">
-<div style="width: 100%; top: 0; position: fixed; background-color: whitesmoke;">
+    <div style="width: 100%; top: 0; position: fixed; background-color: whitesmoke;">
         <div class="banner" style="padding-top:15px; padding-bottom: 5px; text-align:center; background-color: whitesmoke;">
             <div class="banner-content">
                 <h6><span style="background-color: #1E70B9; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&nbsp;<strong>RELEASE CANDIDATE</strong>&nbsp;</span>
