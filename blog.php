@@ -27,43 +27,45 @@
 </head>
 
 <body style="background-image: url('https://levcansat.com/assets/img/background.png');">
-    <div class="banner" style="padding-top:15px; padding-bottom: 5px; text-align:center; background-color: whitesmoke;">
-        <div class="banner-content">
-            <h6><span style="background-color: #1E70B9; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&nbsp;<strong>RELEASE CANDIDATE</strong>&nbsp;</span>
-                &nbsp;
-                  This is a new service – your <a target="_blank" href="https://leventhorpe.atlassian.net/servicedesk/customer/portals">feedback</a> will help us to improve it.
-            </h6>
-        </div>
-    </div>
-    <div style="background-image: url('https://levcansat.com/assets/img/background.png');" class="container-fluid py-5">
-        <div style="color: rgb(27, 59, 94);">
-            <h1 id="i8n8" class="display-1 text-center" style="width: 100%; top: 0; position: fixed;"><u>Leventhorpe CanSat Team</u></h1>
-        </div>
-        <br>
-        <nav>
-            <div id="nav-tab" role="tablist" class="nav nav-tabs">
-                <a href="/">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Home</button>
-                </a>
-                &nbsp;
-                &nbsp;
-                <a href="about-us.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
-                </a>
-                &nbsp;
-                &nbsp;
-                <a href="blog.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
-                </a>
-                &nbsp;
-                &nbsp;
-                <a href="support-us.php">
-                    <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
-                </a>
-                &nbsp;
-                &nbsp;
+<div style="width: 100%; top: 0; position: fixed; background-color: whitesmoke;">
+        <div class="banner" style="padding-top:15px; padding-bottom: 5px; text-align:center; background-color: whitesmoke;">
+            <div class="banner-content">
+                <h6><span style="background-color: #1E70B9; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&nbsp;<strong>RELEASE CANDIDATE</strong>&nbsp;</span>
+                    &nbsp;
+                    This is a new service – your <a target="_blank" href="https://leventhorpe.atlassian.net/servicedesk/customer/portals">feedback</a> will help us to improve it.
+                </h6>
             </div>
-        </nav>
+        </div>
+        <div style="background-image: url('https://levcansat.com/assets/img/background.png');" class="container-fluid py-5">
+            <div style="color: rgb(27, 59, 94);">
+                <h1 id="i8n8" class="display-1 text-center" style="width: 100%; top: 0; position: fixed;"><u>Leventhorpe CanSat Team</u></h1>
+            </div>
+            <br>
+            <nav>
+                <div id="nav-tab" role="tablist" class="nav nav-tabs">
+                    <a href="/">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Home</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                    <a href="about-us.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                    <a href="blog.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                    <a href="support-us.php">
+                        <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
+                    </a>
+                    &nbsp;
+                    &nbsp;
+                </div>
+            </nav>
+    </div>
         <br>
         <br>
         <center>
