@@ -47,17 +47,17 @@
                 </a>
                 &nbsp;
                 &nbsp;
-                <a href="about-us.php">
+                <a href="about-us.aspx">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
                 </a>
                 &nbsp;
                 &nbsp;
-                <a href="blog.php">
+                <a href="blog.aspx">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
                 </a>
                 &nbsp;
                 &nbsp;
-                <a href="support-us.php">
+                <a href="support-us.aspx">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
                 </a>
                 &nbsp;
@@ -65,7 +65,15 @@
             </div>
         </nav>
         <br>
-        <div class="gfm-embed" data-url="https://www.gofundme.com/f/raise-money-for-leventhorpes-cansat-entry/widget/large/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+        <br>
+        <center>
+                <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/cansatlev?ref_src=twsrc%5Etfw">Tweets by @cansatlev</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </center>
+        <!-- <div style="text-align: center;">
+            <iframe width="95%" height="900" src="https://leventhorpe-cansat.blogspot.com">Browser not supported</iframe>
+        </div> -->
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
                          

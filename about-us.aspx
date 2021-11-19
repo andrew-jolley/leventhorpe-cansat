@@ -47,17 +47,17 @@
                 </a>
                 &nbsp;
                 &nbsp;
-                <a href="about-us.php">
+                <a href="about-us.aspx">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
                 </a>
                 &nbsp;
                 &nbsp;
-                <a href="blog.php">
+                <a href="blog.aspx">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
                 </a>
                 &nbsp;
                 &nbsp;
-                <a href="support-us.php">
+                <a href="support-us.aspx">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
                 </a>
                 &nbsp;
