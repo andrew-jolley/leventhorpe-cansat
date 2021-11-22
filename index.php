@@ -66,7 +66,7 @@
             </h3>
             <br>
             <h4>
-                Using the dropdown button at the top, navigate through our page and we hope you find this interesting!
+                Using the buttons at the top, navigate through our page and we hope you find this site informative!
             </h4>
         </div>
         <br>
