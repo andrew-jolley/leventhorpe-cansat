@@ -30,7 +30,7 @@
 </head>
 
 <body style="background-color: whitesmoke; font-family: 'Roboto', sans-serif;">
-    <div style="background-color: whitesmoke;"" class="container-fluid py-5">
+    <div style="background-color: whitesmoke;" class="container-fluid py-5">
         <div style="color: rgb(27, 59, 94);">
             <h1 id="i8n8" class="display-1 text-center"><u>Leventhorpe CanSat Team</u></h1>
         </div>
