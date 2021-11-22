@@ -65,8 +65,7 @@
             </div>
         </nav>
         <br>
-        <div id="jg-widget-leventhorpe-cansat?utm_term=d6ve6xxem-663"></div><script>(function(){var id="jg-widget-leventhorpe-cansat?utm_term=d6ve6xxem-663",doc=document,pfx=(window.location.toString().indexOf("https")==0)?"https":"http";var el=doc.getElementById(id);if(el){var js=doc.createElement('script');js.src=pfx+"://widgets.justgiving.com/fundraisingpage/leventhorpe-cansat?utm_term=d6ve6xxem?enc=ZT1qZy13aWRnZXQtbGV2ZW50aG9ycGUtY2Fuc2F0P3V0bV90ZXJtPWQ2dmU2eHhlbS02NjMmdz00MDAmYj1pbWFnZSxkb25hdGUmaWI9dGl0bGUsc3VtbWFyeSxwcm9ncmVzcyxyYWlzZWQsdGFyZ2V0";el.parentNode.insertBefore(js, el);}})();</script>
-
+        <div class="gfm-embed" data-url="https://www.gofundme.com/f/leventhorpe-cansat-team/widget/medium/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
