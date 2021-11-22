@@ -63,9 +63,9 @@
             <br>
             <h4>
                 <ul style="text-align: left;">
-                    <li>You're probably seeing this because you've seen our website.</li>
                     <li>We aim to use this as a method of communicating with our audience (you guys!) to show you our progress (success and failures!).</li>
-                    <li>If you find any problems, please do not hesitate to contact us by clicking <a href="https://leventhorpe.atlassian.net/servicedesk/customer/portals" rel="nofollow" target="_blank" style="color: burlywood;">here</a>.</li>
+                    <li>Also, for part of the project, we should engage members of the community, so we also aim to get children and teenagers involved in astrophysics!</li>
+                    <li>If you have any questions, or would like any more information, please feel free to email us <a href="mailto:leventhorpecansat@gmail.com">here</a>.</li>
                 </ul>
             </h4>
             <h3>
