@@ -59,6 +59,7 @@
         <div class="gfm-embed" data-url="https://www.gofundme.com/f/raise-money-for-leventhorpes-cansat-entry/widget/large/" style="width: auto;"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
         <center>
         <h1>Our next fundraising project is:</h1>
+        </center>
         <ul>
             <li>
                 <h2>Sponsored silence on 1st and 2nd December</h2>
@@ -67,7 +68,6 @@
                 <h2>Bake sale - Coming soon</h2>
             </li>
         </ul>
-    </center>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
                          
