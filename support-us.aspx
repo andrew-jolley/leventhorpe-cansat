@@ -68,6 +68,7 @@
                 <h2>Bake sale - Coming soon</h2>
             </li>
         </ul>
+        <h4>All donations about our allowed maximum of £400 will be split evenly between <a href="https://www.beateatingdisorders.org.uk/about-beat/">beat</a> and <a href="https://www.scope.org.uk/">scope</a>.</h4>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
                          
