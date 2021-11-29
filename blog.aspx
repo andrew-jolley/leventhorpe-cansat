@@ -41,15 +41,15 @@
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Home</button>
                 </a>
                 &nbsp;
-                <a href="about-us.aspx">
+                <a href="about-us">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">About us</button>
                 </a>
                 &nbsp;
-                <a href="blog.aspx">
+                <a href="blog">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Blog</button>
                 </a>
                 &nbsp;
-                <a href="support-us.aspx">
+                <a href="support-us">
                     <button style="background-color: rgb(50, 108, 173);" id="nav-home1-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home1" aria-selected="false" class="btn btn-secondary">Support us</button>
                 </a>
                 &nbsp;
