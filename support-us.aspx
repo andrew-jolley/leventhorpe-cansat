@@ -69,6 +69,10 @@
             </li>
         </ul>
         <h4>All donations about our allowed maximum of £400 will be split evenly between <a href="https://www.beateatingdisorders.org.uk/about-beat/" target="_blank">Beat</a> and <a href="https://www.scope.org.uk/" target="_blank">Scope</a>.</h4>
+        <br>
+        <br>
+        <br>
+        <center><p style="color: #326CAD;"><a href="https://andrewjolley.co.uk">© Andrew Jolley 2021</a></p></center>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
                          
