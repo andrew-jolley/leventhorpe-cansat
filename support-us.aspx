@@ -62,9 +62,6 @@
         </center>
         <ul>
             <li>
-                <h2>Sponsored silence on 1st and 2nd December</h2>
-            </li>
-            <li>
                 <h2>Bake sale - Coming soon</h2>
             </li>
         </ul>
@@ -72,7 +69,7 @@
         <br>
         <br>
         <br>
-        <center><p style="color: #326CAD;"><a href="https://andrewjolley.co.uk">© Andrew Jolley 2021</a></p></center>
+        <center><p id="ha17"><a href="https://andrewjolley.co.uk">© Andrew Jolley 2021</a></p></center>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
                          
