@@ -96,21 +96,13 @@
                 </ul>
                 ESERO-UK organises an annual UK CanSat competition, the winner of which will be invited to compete in the European CanSat competition.
             </h4>
-            <!--<h4>
-                <ul style="text-align: left;">
-                    <li>We aim to use this as a method of communicating with our audience (you guys!) to show you our progress (success and failures!).</li>
-                    <li>Also, for part of the project, we should engage members of the community, so we also aim to get children and teenagers involved in astrophysics!</li>
-                    <li>If you have any questions, or would like any more information, please feel free to email us <a href="mailto:leventhorpecansat@gmail.com">here</a>.</li>
-                </ul>
-            </h4>
-            <h3>
-                <strong>Thank you for your support!</strong>
-            </h3> -->
         </div>
         <br>
         <br>
         <br>
-        <center><p id="ha17"><a href="https://andrewjolley.co.uk">© Andrew Jolley 2021</a></p></center>
+            <center>
+                <p id="ha17"><a href="https://andrewjolley.co.uk" style="color: rgb(64, 138, 222);">© Andrew Jolley 2021</a></p>
+            </center>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/js/app.js"></script>
