@@ -1,4 +1,0 @@
-[run]
-source = bmp280
-omit =
-    .tox/*
