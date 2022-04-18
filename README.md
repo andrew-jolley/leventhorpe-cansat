@@ -1,7 +1,7 @@
 # Leventhorpe CanSat Source Code
 
 ## Website
-Within the folder "Website", you will find the '.html', '.css', & '.js' files used to construct the [CanSat website](https://leventhorpe-cansat.rf.gd)
+Within the folder "Website", you will find the '.html', '.css', & '.js' along with any other files used to construct the [CanSat website](https://leventhorpe-cansat.rf.gd)
 
 ## CanSat Compute Units (CCU)
 Within the folder "CCU", you will find two folders, "Ground" and "Air"
