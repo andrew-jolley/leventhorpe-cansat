@@ -1,6 +1,6 @@
-# SPDX-FileCopyrightText: 2020 by Bryan Siepert, written for Adafruit Industries
-#
-# SPDX-License-Identifier: Unlicense
+# Version 2 - 27th Feb 2023
+
+# Importing libraries
 import time
 import board
 import digitalio
@@ -12,10 +12,11 @@ import adafruit_sgp30
 import adafruit_rfm9x
 
 
+# Initalising the pins for the TCA9548A
 i2c = busio.I2C(board.GP27, board.GP26)
-
 tca = adafruit_tca9548a.TCA9548A(i2c)
 
+# Setting the TCA bus for each device
 scd4x = adafruit_scd4x.SCD4X(tca[0])
 bmp280 = adafruit_bmp280.Adafruit_BMP280_I2C(tca[1], address=0x76)
 sgp30 = adafruit_sgp30.Adafruit_SGP30(tca[2])
@@ -23,37 +24,34 @@ spi = busio.SPI(clock=board.GP2, MOSI=board.GP3, MISO=board.GP4)
 cs = digitalio.DigitalInOut(board.GP6)
 reset = digitalio.DigitalInOut(board.GP7)
 
-# start the radio
+# Starting the radio
 rfm9x = adafruit_rfm9x.RFM9x(spi, cs, reset, 433.2)
 rfm9x.tx_power = 23
-
 print("RFM9x radio ready")
 
+# Flashing the LED
 led = digitalio.DigitalInOut(board.LED)
 led.direction = digitalio.Direction.OUTPUT
 led.value = True
 
+# Setting variables
 packet_count = 0
+elapsed_sec = 0
+firstPressure = 0
+message = 1
 
-
-# i2c = board.STEMMA_I2C()  # For using the built-in STEMMA QT connector on a microcontroller
+# Show component Serial Numbers
 print("Serial number:", [hex(i) for i in scd4x.serial_number])
-
-
 print("SGP30 serial #", [hex(i) for i in sgp30.serial])
-
 sgp30.set_iaq_baseline(0x8973, 0x8AAE)
 sgp30.set_iaq_relative_humidity(celsius=22.1, relative_humidity=44)
 
-elapsed_sec = 0
-
+# Getting ready for measurement
 scd4x.start_periodic_measurement()
 print("Waiting for first measurement....")
 
 
-firstPressure = 0
-message = 1
-
+# Poll, get, transmit loop
 while True:
     if firstPressure == 0:
         firstPressure +=1
