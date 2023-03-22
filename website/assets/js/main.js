@@ -21,4 +21,4 @@ function activateCountdown(element, dateString) {
     }, 250)
 }
 
-activateCountdown(document.getElementById("myCountdown"), "2023-03-28");
+activateCountdown(document.getElementById("myCountdown"), "2023-03-29");
